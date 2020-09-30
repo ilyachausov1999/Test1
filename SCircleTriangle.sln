@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCircleTriangle", "SCircleTriangle\SCircleTriangle.csproj", "{FDD1875D-36DC-4C83-85BD-13076DCF3FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD1875D-36DC-4C83-85BD-13076DCF3FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD1875D-36DC-4C83-85BD-13076DCF3FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD1875D-36DC-4C83-85BD-13076DCF3FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD1875D-36DC-4C83-85BD-13076DCF3FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FFFF136-C497-42C7-B323-6A64E766559C}
+	EndGlobalSection
+EndGlobal
